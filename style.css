@@ -245,5 +245,7 @@ footer h3{
         .fact-logo-container{
             flex-direction: column;
         }
-       
+        .sponsor-logo{
+            flex-direction: column;
+        }
       }
