@@ -247,5 +247,6 @@ footer h3{
         }
         .sponsor-logo{
             flex-direction: column;
+            gap: 20px;
         }
       }
